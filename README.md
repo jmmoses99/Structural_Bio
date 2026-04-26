@@ -1,2 +1,2 @@
 # Structural_Bio
-Structural Biology Assignments
+Structural Biology Docking Assignment utilizing Pymol
